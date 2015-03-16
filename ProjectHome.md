@@ -1,0 +1,1 @@
+Simple utility application to remove the metadata created by Subversion.
